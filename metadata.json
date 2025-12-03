@@ -1,0 +1,5 @@
+{
+  "name": "Chess Practice",
+  "description": "A world-class chess application featuring a strong heuristic AI engine and real-time Grandmaster commentary powered by Google Gemini.",
+  "requestFramePermissions": []
+}
